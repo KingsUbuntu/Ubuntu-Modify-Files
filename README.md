@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./preview.jpg" alt="Preview">
 </p>
 
 ## **Initial Setup**
