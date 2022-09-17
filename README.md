@@ -2,6 +2,10 @@
   <b>Customize Ubuntu 22.04 LTS</b>
 </h1>
 
+<p align="center">
+  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+</p>
+
 ## **Initial Setup**
 
 - **Update ubuntu system - `sudo apt update && sudo apt upgrade -y`**
